@@ -75,3 +75,6 @@ If you are interested in visit Des Moines, here is one link to things to do: htt
 - Water Works Park is approximately 1,500 acres of land near downtown Des Moines and is one of the largest urban parks. Maffitt Reservoir includes 1,300 acres of land, including wooded areas and a 200 acre lake popular for fishing.  Bike routes should go to famous places like this park.
 
 - Since Des Moines is a small town, you can get everywhere in 20  minutes in car, and has a lot of green areas for outdoor activities, these things make Des Moines a perfect place for biking, you can get everywhere in short distances and promote biking as a family and friends activity, that is good for your health and also it as a great option for polution free transportation.
+
+## Link to Tableau Story
+[Bike Sharing Project](https://public.tableau.com/views/Bikesharing_15939760492010/NYCitiBike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
