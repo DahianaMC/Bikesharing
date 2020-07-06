@@ -73,6 +73,7 @@ If you are interested in visit Des Moines, you can visit this link to things to 
 - The most famous places people visit in Des Moines are already connected with bike trails, this makes easier to implement a bike sharing program since part of the job that needs to be done is already completed.
 - Des Moines is a small city that is growing, meaning new jobs are creating and tourism is also increasing.  With the world changing, people are more worried about staying healthy, eating better and working out, biking is a great option to keep your body healthy and you can do it while you go to work.  
 - Go outside, eating in the parks, being outdoors, try to keep your mind away from the duties, doing something better for your body and your mental health could be done with biking.
+- Bike routes should be connected to public transportation.
 
 ## Link to Tableau Story
 [Bike Sharing Project Visualizations](https://public.tableau.com/views/Bikesharing_15939760492010/NYCitiBike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
